@@ -1,0 +1,156 @@
+Employee_ID,Exit_Date,Exit_Type,Exit_Reason
+NWS1092,2024-02-02,Voluntary,Management Issues
+NWS0512,2024-03-30,Voluntary,Limited Career Progression
+NWS0188,2024-04-13,Voluntary,Limited Career Progression
+NWS1522,2024-04-15,Voluntary,Limited Career Progression
+NWS1403,2024-04-28,Voluntary,Better Career Opportunity
+NWS1115,2024-05-04,Voluntary,Work-Life Balance
+NWS0185,2024-05-06,Voluntary,Personal Reasons
+NWS0683,2024-05-15,Voluntary,Work-Life Balance
+NWS0813,2024-06-12,Voluntary,Management Issues
+NWS0095,2024-06-20,Voluntary,Limited Career Progression
+NWS0931,2024-07-15,Voluntary,Limited Career Progression
+NWS1101,2024-08-21,Voluntary,Better Career Opportunity
+NWS1052,2024-08-29,Voluntary,Limited Career Progression
+NWS1571,2024-09-04,Voluntary,Further Education
+NWS1009,2024-09-12,Voluntary,Work-Life Balance
+NWS1484,2024-09-17,Voluntary,Limited Career Progression
+NWS1326,2024-10-03,Voluntary,Better Career Opportunity
+NWS1806,2024-10-04,Voluntary,Inadequate Compensation
+NWS1364,2024-10-07,Voluntary,Better Career Opportunity
+NWS1797,2024-10-19,Voluntary,Personal Reasons
+NWS0288,2024-10-21,Voluntary,Personal Reasons
+NWS0066,2024-10-28,Voluntary,Better Career Opportunity
+NWS1287,2024-10-29,Voluntary,Work-Life Balance
+NWS0028,2024-11-07,Voluntary,Inadequate Compensation
+NWS1517,2024-11-09,Voluntary,Inadequate Compensation
+NWS1955,2024-11-09,Voluntary,Personal Reasons
+NWS0958,2024-11-12,Voluntary,Inadequate Compensation
+NWS1738,2024-11-15,Voluntary,Further Education
+NWS1303,2024-11-18,Voluntary,Management Issues
+NWS0670,2024-11-23,Voluntary,Inadequate Compensation
+NWS1794,2024-12-02,Voluntary,Further Education
+NWS1891,2024-12-08,Voluntary,Limited Career Progression
+NWS1850,2024-12-17,Voluntary,Better Career Opportunity
+NWS1618,2024-12-18,Voluntary,Personal Reasons
+NWS0568,2024-12-26,Voluntary,Work-Life Balance
+NWS0120,2025-01-01,Voluntary,Limited Career Progression
+NWS1898,2025-01-03,Voluntary,Further Education
+NWS0383,2025-01-15,Voluntary,Limited Career Progression
+NWS0231,2025-01-21,Voluntary,Better Career Opportunity
+NWS1552,2025-01-22,Voluntary,Management Issues
+NWS0856,2025-01-24,Voluntary,Better Career Opportunity
+NWS0459,2025-01-26,Voluntary,Work-Life Balance
+NWS1202,2025-02-01,Voluntary,Personal Reasons
+NWS1581,2025-02-02,Voluntary,Personal Reasons
+NWS1094,2025-02-04,Voluntary,Further Education
+NWS1112,2025-02-08,Voluntary,Limited Career Progression
+NWS1827,2025-02-14,Voluntary,Better Career Opportunity
+NWS1489,2025-02-16,Voluntary,Personal Reasons
+NWS1498,2025-02-19,Voluntary,Further Education
+NWS1166,2025-02-25,Voluntary,Personal Reasons
+NWS1024,2025-03-03,Voluntary,Management Issues
+NWS0903,2025-03-04,Voluntary,Better Career Opportunity
+NWS1855,2025-03-04,Voluntary,Limited Career Progression
+NWS1896,2025-03-19,Voluntary,Limited Career Progression
+NWS1817,2025-03-19,Voluntary,Better Career Opportunity
+NWS0590,2025-03-19,Voluntary,Further Education
+NWS0067,2025-03-26,Voluntary,Management Issues
+NWS1432,2025-03-30,Voluntary,Further Education
+NWS0744,2025-04-03,Voluntary,Limited Career Progression
+NWS1732,2025-04-07,Voluntary,Personal Reasons
+NWS1005,2025-04-08,Voluntary,Work-Life Balance
+NWS0276,2025-04-22,Voluntary,Further Education
+NWS1362,2025-05-06,Voluntary,Better Career Opportunity
+NWS0293,2025-05-12,Voluntary,Inadequate Compensation
+NWS1845,2025-05-21,Voluntary,Personal Reasons
+NWS1584,2025-05-27,Voluntary,Work-Life Balance
+NWS1106,2025-06-01,Voluntary,Inadequate Compensation
+NWS0440,2025-06-07,Voluntary,Management Issues
+NWS1927,2025-06-07,Voluntary,Limited Career Progression
+NWS0632,2025-06-14,Voluntary,Work-Life Balance
+NWS0795,2025-06-14,Voluntary,Inadequate Compensation
+NWS0377,2025-06-17,Voluntary,Personal Reasons
+NWS0827,2025-06-18,Voluntary,Work-Life Balance
+NWS1361,2025-06-18,Voluntary,Further Education
+NWS1387,2025-06-20,Voluntary,Further Education
+NWS0304,2025-06-22,Voluntary,Management Issues
+NWS1656,2025-06-23,Voluntary,Personal Reasons
+NWS0794,2025-06-26,Voluntary,Work-Life Balance
+NWS0604,2025-06-26,Voluntary,Limited Career Progression
+NWS0558,2025-06-29,Voluntary,Work-Life Balance
+NWS1408,2025-07-03,Voluntary,Inadequate Compensation
+NWS1029,2025-07-04,Voluntary,Inadequate Compensation
+NWS1720,2025-07-07,Voluntary,Management Issues
+NWS1578,2025-07-10,Voluntary,Further Education
+NWS0195,2025-07-15,Voluntary,Limited Career Progression
+NWS0251,2025-07-16,Voluntary,Personal Reasons
+NWS1051,2025-07-17,Voluntary,Limited Career Progression
+NWS1953,2025-07-19,Voluntary,Work-Life Balance
+NWS0122,2025-07-23,Voluntary,Further Education
+NWS0441,2025-07-24,Voluntary,Better Career Opportunity
+NWS0246,2025-07-29,Voluntary,Further Education
+NWS0579,2025-07-29,Voluntary,Better Career Opportunity
+NWS1074,2025-08-03,Voluntary,Work-Life Balance
+NWS0550,2025-08-03,Voluntary,Work-Life Balance
+NWS0056,2025-08-07,Voluntary,Limited Career Progression
+NWS1892,2025-08-08,Voluntary,Limited Career Progression
+NWS1592,2025-08-18,Voluntary,Management Issues
+NWS1879,2025-08-18,Voluntary,Management Issues
+NWS0601,2025-08-23,Voluntary,Limited Career Progression
+NWS0112,2025-08-26,Voluntary,Further Education
+NWS0585,2025-09-03,Voluntary,Inadequate Compensation
+NWS0423,2025-09-08,Voluntary,Better Career Opportunity
+NWS0480,2025-09-11,Voluntary,Better Career Opportunity
+NWS1922,2025-09-13,Voluntary,Better Career Opportunity
+NWS1278,2025-09-14,Voluntary,Better Career Opportunity
+NWS1037,2025-09-19,Voluntary,Better Career Opportunity
+NWS0127,2025-09-26,Voluntary,Limited Career Progression
+NWS1404,2025-09-27,Voluntary,Further Education
+NWS0008,2025-09-30,Voluntary,Personal Reasons
+NWS0694,2025-10-02,Voluntary,Personal Reasons
+NWS0345,2025-10-03,Voluntary,Management Issues
+NWS0732,2025-10-05,Voluntary,Further Education
+NWS1048,2025-10-07,Voluntary,Limited Career Progression
+NWS1846,2025-10-10,Voluntary,Inadequate Compensation
+NWS0055,2025-10-12,Voluntary,Personal Reasons
+NWS1769,2025-10-13,Voluntary,Management Issues
+NWS0162,2025-10-15,Voluntary,Better Career Opportunity
+NWS0818,2025-10-17,Voluntary,Work-Life Balance
+NWS0019,2025-10-19,Voluntary,Management Issues
+NWS1657,2025-10-19,Voluntary,Limited Career Progression
+NWS1677,2025-10-24,Voluntary,Inadequate Compensation
+NWS1548,2025-10-24,Voluntary,Limited Career Progression
+NWS1338,2025-10-27,Voluntary,Better Career Opportunity
+NWS1068,2025-10-27,Voluntary,Inadequate Compensation
+NWS1230,2025-10-28,Voluntary,Better Career Opportunity
+NWS1508,2025-10-30,Voluntary,Better Career Opportunity
+NWS1388,2025-10-31,Voluntary,Management Issues
+NWS1055,2025-11-03,Voluntary,Better Career Opportunity
+NWS0326,2025-11-08,Voluntary,Work-Life Balance
+NWS1242,2025-11-13,Voluntary,Management Issues
+NWS1579,2025-11-18,Voluntary,Further Education
+NWS0478,2025-11-19,Voluntary,Further Education
+NWS0919,2025-11-22,Voluntary,Work-Life Balance
+NWS0321,2025-11-22,Voluntary,Inadequate Compensation
+NWS0510,2025-11-23,Voluntary,Better Career Opportunity
+NWS0443,2025-12-02,Voluntary,Work-Life Balance
+NWS1626,2025-12-05,Voluntary,Work-Life Balance
+NWS1604,2025-12-05,Voluntary,Personal Reasons
+NWS0476,2025-12-05,Voluntary,Work-Life Balance
+NWS1641,2025-12-08,Voluntary,Work-Life Balance
+NWS1852,2025-12-08,Voluntary,Inadequate Compensation
+NWS0259,2025-12-12,Voluntary,Better Career Opportunity
+NWS1228,2025-12-15,Voluntary,Further Education
+NWS1431,2025-12-19,Voluntary,Personal Reasons
+NWS0652,2025-12-20,Voluntary,Inadequate Compensation
+NWS0481,2025-12-22,Voluntary,Further Education
+NWS1467,2025-12-22,Voluntary,Better Career Opportunity
+NWS0415,2025-12-24,Voluntary,Inadequate Compensation
+NWS0733,2025-12-24,Voluntary,Better Career Opportunity
+NWS0978,2025-12-28,Voluntary,Further Education
+NWS0503,2025-12-29,Voluntary,Management Issues
+NWS1300,2025-12-29,Voluntary,Inadequate Compensation
+NWS0628,2025-12-30,Voluntary,Work-Life Balance
+NWS0875,2025-12-31,Voluntary,Work-Life Balance
+NWS0766,2025-12-31,Voluntary,Limited Career Progression
