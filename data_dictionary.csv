@@ -1,0 +1,56 @@
+Dataset,Variable,Description,Data Type
+Employee Master,Employee_ID,Unique identification number assigned to each employee.,object
+Employee Master,Age,Employee age in years.,int64
+Employee Master,Gender,Simulated employee gender category.,object
+Employee Master,Department,Department in which the employee works.,object
+Employee Master,Job_Role,Employee's designated job position.,object
+Employee Master,Job_Grade,Employee's organisational grade.,object
+Employee Master,Location,Employee's work location.,object
+Employee Master,Employment_Type,"Employment arrangement, such as full-time or contract.",object
+Employee Master,Monthly_Salary,Simulated monthly salary in Nigerian naira.,int64
+Employee Master,Hire_Date,Date the employee joined the organisation.,datetime64[ns]
+Employee Master,Previous_Experience_Years,Employee's years of work experience before joining.,float64
+Employee Master,Education,The employee's highest simulated educational qualification.,object
+Employee Master,Performance_Rating,Employee performance rating on a scale of 1 to 5.,int64
+Employee Master,KPI_Achievement,Percentage of assigned performance targets achieved.,float64
+Employee Master,Job_Satisfaction,Employee job satisfaction score on a scale of 1 to 5.,int64
+Employee Master,Work_Life_Balance,Employee work-life balance score on a scale of 1 to 5.,int64
+Employee Master,Engagement_Score,Employee engagement score on a scale of 0 to 100.,float64
+Employee Master,Manager_Relationship,Employee's simulated relationship rating with their manager.,int64
+Employee Master,Workload_Score,Employee's perceived workload score on a scale of 0 to 100.,float64
+Employee Master,Overtime_Hours,Simulated average monthly overtime hours.,float64
+Employee Master,Training_Hours,Simulated employee training hours.,int64
+Employee Master,Years_In_Current_Role,Estimated years spent in the employee's current role.,float64
+Employee Master,Years_Since_Promotion,Estimated years since the employee's last promotion.,float64
+Employee Master,Previous_Salary,Simulated monthly salary before the latest increment.,int64
+Employee Master,Salary_Increment_Percent,Percentage increase applied to the previous salary.,float64
+Employee Master,Last_Promotion_Date,Simulated date of the employee's most recent promotion.,datetime64[ns]
+Employee Master,Promotion_Count,Number of simulated employee promotions.,int64
+Employee Master,Internal_Mobility_Count,Number of simulated internal role changes.,int64
+Employee Master,Career_Development_Score,Simulated score representing access to career development.,float64
+Employee Master,Benefits_Satisfaction,Employee satisfaction with organisational benefits.,int64
+Employee Master,Salary_Competitiveness,Simulated assessment of salary competitiveness.,int64
+Employee Master,Employment_Status,Employee's status at the end of the simulation period.,object
+Exit Records,Employee_ID,Unique identification number assigned to each employee.,object
+Exit Records,Exit_Date,Date an employee voluntarily left the organisation.,datetime64[ns]
+Exit Records,Exit_Type,Classification of the employee's exit.,object
+Exit Records,Exit_Reason,Simulated reason for the employee's resignation.,object
+Monthly History,Employee_ID,Unique identification number assigned to each employee.,object
+Monthly History,Observation_Date,Month-end date on which employee information was recorded.,datetime64[ns]
+Monthly History,Months_At_Company,"Employee's length of service at the observation date, in months.",int64
+Monthly History,Tenure_Years,"Employee's length of service at the observation date, in years.",float64
+Monthly History,Monthly_Salary,Simulated monthly salary in Nigerian naira.,int64
+Monthly History,Performance_Rating,Employee performance rating on a scale of 1 to 5.,int64
+Monthly History,KPI_Achievement,Percentage of assigned performance targets achieved.,float64
+Monthly History,Job_Satisfaction,Employee job satisfaction score on a scale of 1 to 5.,int64
+Monthly History,Work_Life_Balance,Employee work-life balance score on a scale of 1 to 5.,int64
+Monthly History,Engagement_Score,Employee engagement score on a scale of 0 to 100.,float64
+Monthly History,Manager_Relationship,Employee's simulated relationship rating with their manager.,int64
+Monthly History,Workload_Score,Employee's perceived workload score on a scale of 0 to 100.,float64
+Monthly History,Overtime_Hours,Simulated average monthly overtime hours.,float64
+Monthly History,Training_Hours,Simulated employee training hours.,int64
+Monthly History,Years_In_Current_Role,Estimated years spent in the employee's current role.,float64
+Monthly History,Years_Since_Promotion,Estimated years since the employee's last promotion.,float64
+Monthly History,Career_Development_Score,Simulated score representing access to career development.,float64
+Monthly History,Salary_Competitiveness,Simulated assessment of salary competitiveness.,int64
+Monthly History,Attrition_Within_6M,Target indicating whether the employee resigned within six months after the observation date.,float64
